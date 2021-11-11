@@ -1,6 +1,8 @@
 # 第七次作业
 
-## 1：与指定数字相同的数的个数
+点击题目标题以跳转到相应代码
+
+## 1：(与指定数字相同的数的个数)[https://github.com/SailorWontSink/PKUIntro2ComputationC_dxf21autumn/blob/main/hw7/1.py]
 
 > 总时间限制: 1000ms
 >
@@ -35,7 +37,7 @@
 
 ---
 
-## 2：最近点对
+## 2：(最近点对)[https://github.com/SailorWontSink/PKUIntro2ComputationC_dxf21autumn/blob/main/hw7/2.py]
 
 > 总时间限制: 1000ms
 >
@@ -79,7 +81,7 @@
 
 ---
 
-## 3：找第一个只出现一次的字符
+## 3：(找第一个只出现一次的字符)[https://github.com/SailorWontSink/PKUIntro2ComputationC_dxf21autumn/blob/main/hw7/3.py]
 
 > 总时间限制: 1000ms
 >
